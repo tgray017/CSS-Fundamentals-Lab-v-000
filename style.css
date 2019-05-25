@@ -10,7 +10,7 @@ nav a {
 }
 
 section#details {
-  background-color: red;
+  display: block;
 }
 
 section#details div {
