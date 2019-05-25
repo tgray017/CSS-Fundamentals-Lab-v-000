@@ -15,5 +15,6 @@ section#details {
 
 section#details div {
   float: left;
+  display: block;
   background-color: red;
 }
