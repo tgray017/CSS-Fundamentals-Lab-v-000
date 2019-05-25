@@ -8,3 +8,7 @@ body {
 nav a {
   padding-left: 10px;
 }
+
+section.details {
+  background-color: red;
+}
